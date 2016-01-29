@@ -175,6 +175,10 @@ OPC| #|#|#
 ★★★★☆ | 和菜头|[槽边往事](http://weixin.sogou.com/gzh?openid=oIWsFtxG-2J2sGx3l5-pknZDv60g&ext=3Q58_wfJO1_O-1O-1KJmJ92k5-PZNJsCT58gQfSC1J4KKHp_8VYDzBHVkNq2-MVK)|#
 ★★★★☆ | 霍炬|[歪理邪说](http://weixin.sogou.com/gzh?openid=oIWsFt3qoq0iKzqXrPeKhIujXtow&ext=3Q58_wfJO19FCynn6woLlGuXqi3LyN5yJ4bRWzmKoZKrXiLetbem6GgEcH5SB_T9)|#
 ★★★★☆ | joey|[老鹰说](http://weixin.sogou.com/gzh?openid=oIWsFtwpx4WaL2AzuAe1OmSHfB5Q&ext=3Q58_wfJO1_UpM45fU9gqc50y16N5MujHVkhbwSgWuinqZqc5GyIcwGJgRqcxw58)|#
+★★★★★ | 崔金生|[雾满拦江](http://weixin.sogou.com/gzh?openid=oIWsFt1NkQRXnpyCZH0Hhez5-GrM&ext=A77vTFKGmhHzjANLmAwjQ8zy_TfpgNfjeqPWvf3eR-sskq69z5imh5ZzPnpHSeQO)|#
+★★★★☆ | 科学家种太阳|[科学家种太阳](http://weixin.sogou.com/gzh?openid=oIWsFt97UMF-ByEMCJiNAGEpruiE&ext=A77vTFKGmhHtDAG7j20Bf6x5e8GkUjmSFDqcnoMCgXS41xx9qBZkO6cprqNvGNDH)|#
+★★★★☆ | nana|[人生不过如此](http://weixin.sogou.com/gzh?openid=oIWsFtys48GXlCZAPu_DME-v-HCs&ext=A77vTFKGmhF5KRwxzkDS3b650h40qSCYcv60lvNH96BhxAJZ6sDkYKbuZuZZ1Tda)|#
+★★★★☆ | 菠菜|[有点自卑](http://weixin.sogou.com/gzh?openid=oIWsFtxRAc8teKByZVKkIdTkGuCE&ext=A77vTFKGmhF46rIUCNsArhD6530ne_2y91hroya-D6zZNHv7CcFilKQseRk3C0f-)|#
 ★★★★☆ | 待补增|[待补增](http://www.cnfeat.com)|#
 
 
@@ -232,7 +236,7 @@ OPC| #|#|#
 
 
 ## 更新
-
+- 2016-01-28 20:02:10 补增 4 个订阅源
 - 2016-01-24 23:02:34 补增100个订阅源
 - 2016-01-24 15:16:34 逐一检查，去掉愤青/日志类博客
 - 2016-01-21 00:16:46 补增各站点订阅方法和RSS Subscription Extension 插件
